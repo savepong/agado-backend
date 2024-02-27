@@ -1,0 +1,26 @@
+{
+  "labels": [
+    "Standard",
+    "Deluxe",
+    "Villa"
+  ],
+  "datasets": [
+    {
+      "data": [
+        50,
+        32,
+        18
+      ],
+      "backgroundColor": [
+        "#A3204C",
+        "#174A66",
+        "#AF583A"
+      ],
+      "borderColor": [
+        "#A3204C",
+        "#174A66",
+        "#AF583A"
+      ]
+    }
+  ]
+}
