@@ -1,0 +1,94 @@
+{
+  "labels": [
+    "01-2022",
+    "02-2022",
+    "03-2022",
+    "04-2022",
+    "05-2022",
+    "06-2022",
+    "07-2022",
+    "08-2022",
+    "09-2022",
+    "10-2022",
+    "11-2022",
+    "12-2022"
+  ],
+  "datasets": [
+    {
+      "label": "USA",
+      "data": [
+        15,
+        4,
+        2,
+        3,
+        2,
+        1,
+        1,
+        2,
+        2,
+        9,
+        6,
+        8
+      ],
+      "pointBackgroundColor": "transparent",
+      "pointBorderColor": "transparent"
+    },
+    {
+      "label": "China",
+      "data": [
+        12,
+        10,
+        12,
+        11,
+        9,
+        11,
+        12,
+        12,
+        10,
+        12,
+        10,
+        12
+      ],
+      "pointBackgroundColor": "transparent",
+      "pointBorderColor": "transparent"
+    },
+    {
+      "label": "Russia",
+      "data": [
+        2,
+        2,
+        4,
+        2,
+        1,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        6
+      ],
+      "pointBackgroundColor": "transparent",
+      "pointBorderColor": "transparent"
+    },
+    {
+      "label": "Europe",
+      "data": [
+        28,
+        10,
+        10,
+        5,
+        6,
+        7,
+        4,
+        8,
+        11,
+        12,
+        13,
+        23
+      ],
+      "pointBackgroundColor": "transparent",
+      "pointBorderColor": "transparent"
+    }
+  ]
+}
