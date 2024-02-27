@@ -1,0 +1,16 @@
+{
+  "labels": [
+    "Solo",
+    "Friends",
+    "Family"
+  ],
+  "datasets": [
+    {
+      "data": [
+        17,
+        40,
+        43
+      ]
+    }
+  ]
+}
