@@ -1,0 +1,18 @@
+{
+  "labels": [
+    "1 Day",
+    "2 Days",
+    "1 Week",
+    "1 Month"
+  ],
+  "datasets": [
+    {
+      "data": [
+        26,
+        48,
+        20,
+        6
+      ]
+    }
+  ]
+}
