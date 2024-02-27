@@ -1,0 +1,22 @@
+{
+  "labels": [
+    "Leisure",
+    "Work"
+  ],
+  "datasets": [
+    {
+      "data": [
+        65,
+        35
+      ],
+      "backgroundColor": [
+        "#236F99",
+        "#116262"
+      ],
+      "borderColor": [
+        "#236F99",
+        "#116262"
+      ]
+    }
+  ]
+}
